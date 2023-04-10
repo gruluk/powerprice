@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/powerprice/static/css/main.5a1519a5.css",
+    "main.js": "/powerprice/static/js/main.5e3ce051.js",
+    "index.html": "/powerprice/index.html",
+    "main.5a1519a5.css.map": "/powerprice/static/css/main.5a1519a5.css.map",
+    "main.5e3ce051.js.map": "/powerprice/static/js/main.5e3ce051.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a1519a5.css",
+    "static/js/main.5e3ce051.js"
+  ]
+}
